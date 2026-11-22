@@ -1,0 +1,18 @@
+# Снимок проверенной CPU-среды StackMoreLayers, Python 3.13.15.
+# ultralytics==8.4.216 устанавливается отдельной командой --no-deps (см. README).
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.0+cpu
+torchvision==0.29.0+cpu
+opencv-python-headless==5.1.0.95
+numpy==2.5.3
+scipy==1.18.1
+pandas==2.3.3
+Pillow==13.0.0
+catboost==1.2.8
+scikit-learn==1.9.1
+joblib==1.6.0
+matplotlib==3.11.2
+requests==2.34.2
+psutil==7.2.2
+PyYAML==6.0.3
+threadpoolctl==3.7.0

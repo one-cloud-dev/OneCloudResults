@@ -1,0 +1,17 @@
+{
+  "frames": 137,
+  "detections": 144,
+  "empty": 19,
+  "changed_take": 38,
+  "frames_changed": 36,
+  "take_0_to_1": 12,
+  "take_1_to_0": 26,
+  "other_token_changes": 0,
+  "restored_exact": true,
+  "official_parser_rows": 137,
+  "baseline": "submission_dinov2_volume_diagnostic.csv",
+  "baseline_sha256": "c046f1c5391041f62134606691a4e017e007fce70db2d33ae4752b3ecd7289bb",
+  "restored_sha256": "c046f1c5391041f62134606691a4e017e007fce70db2d33ae4752b3ecd7289bb",
+  "candidate_sha256": "2c55a9bf5bab0e9118c8ea7cbee69f0d392e47712f17c288d7bee034a19dafd1",
+  "submitted": false
+}

@@ -1,0 +1,11 @@
+{
+  "sha256": {
+    "best.pt": "68a22938ce7e16f08973f8dc8d7201cbdcc1640a420799219188cebce602c789",
+    "material.joblib": "9cb6e7aabb3176496ba3bd36f5d2f056661ac2c9d8bf2e23596ff98579066717",
+    "dinov2_vits14_pretrain.pth": "b938bf1bc15cd2ec0feacfe3a1bb553fe8ea9ca46a7e1d8d00217f29aef60cd9",
+    "head_all40.npz": "62120a92b33bea1b032dccc0719079ff89b9620a20437eb797b2edee44e073b6",
+    "head_train32.npz": "a0fab888a05b99e2b24e7444c2828146a067c4d9572cd6e3b4d6f863cbd15855",
+    "volume_train32.cbm": "eb28b3dfb716774b3f2caef1dc50d9550b5c56168f21031bb5acff05470b77d5",
+    "take_train32_strict.joblib": "68a2640f91f5797551307ad12ddae5d48cc361557890035d8ada34b51c7da6d9"
+  }
+}

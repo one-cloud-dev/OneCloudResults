@@ -1,0 +1,33 @@
+{
+  "decision": "ACCEPT",
+  "candidate": "runs/volume_stage8/submission_volume_wood_v1.csv",
+  "candidate_sha256": "2975526dadff6a4c0723d1e31d2ef41cb2143cb9f67510feda52243bb1b00950",
+  "baseline": "runs/take_stage3/submission_take_stage3_diagnostic.csv",
+  "baseline_sha256": "2c55a9bf5bab0e9118c8ea7cbee69f0d392e47712f17c288d7bee034a19dafd1",
+  "restored_sha256": "2c55a9bf5bab0e9118c8ea7cbee69f0d392e47712f17c288d7bee034a19dafd1",
+  "frames": 137,
+  "official_parser_rows": 137,
+  "empty_frames": 19,
+  "detections": 144,
+  "changed_predictions": 31,
+  "frames_changed": 24,
+  "valid_probabilities": 144,
+  "valid_heights": 143,
+  "both_valid": 143,
+  "nonvolume_token_changes": 0,
+  "exact_restore": true,
+  "used_test_labels": false,
+  "submitted": false,
+  "source_sha256": {
+    "runs/rgbd_volume_stage2/test_positive_masks.jsonl.gz": "864210a89625eb0a14b69155e97b90e8ef27b578deaaad5c6c95a40faded1185",
+    "runs/rgbd_volume_stage2/submission_dinov2_volume_diagnostic.csv": "c046f1c5391041f62134606691a4e017e007fce70db2d33ae4752b3ecd7289bb",
+    "datasets/sample_submission.csv": "b335450d8bc8571a9a19a62d0a0da23555429b14f1d9ac9f16a9b52ca21b30cb",
+    "runs/dinov2_material_stage1/head_train32.npz": "a0fab888a05b99e2b24e7444c2828146a067c4d9572cd6e3b4d6f863cbd15855",
+    "runs/material_dinov2_v1_20261122/dinov2_vits14_pretrain.pth": "b938bf1bc15cd2ec0feacfe3a1bb553fe8ea9ca46a7e1d8d00217f29aef60cd9",
+    "runs/rgbd_volume_stage2/features.py": "9ea7972e7dd337e74f21796e1a93123dcb5df7f9e44e56ff3f8d1cd35a639926",
+    "datasets/score.py": "39c1b022c2557b2c68bdecf769336e835256bc2fc3bb0bdb8c736cd79b1ad540"
+  },
+  "embedding_inference": "frozen CPU",
+  "base_volume": "existing Stage 3 CSV CatBoost volume tokens",
+  "output_rounding": "exact decimal product"
+}

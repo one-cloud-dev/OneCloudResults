@@ -1,0 +1,14 @@
+{
+  "frames": 137,
+  "detections": 144,
+  "empty": 19,
+  "volume_changes": 142,
+  "other_changes": 0,
+  "original_sha256": "d8317647cabce8146575803080fa1df2e87c3e7b0cb9280647e8a021ac2dd7d0",
+  "candidate_sha256": "c046f1c5391041f62134606691a4e017e007fce70db2d33ae4752b3ecd7289bb",
+  "model_sha256": "eb28b3dfb716774b3f2caef1dc50d9550b5c56168f21031bb5acff05470b77d5",
+  "test_mask_sha256": "864210a89625eb0a14b69155e97b90e8ef27b578deaaad5c6c95a40faded1185",
+  "restored_bytes_exact": true,
+  "official_parser_rows": 137,
+  "submitted": false
+}
